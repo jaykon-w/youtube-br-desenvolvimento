@@ -194,6 +194,10 @@ Caso precisem incluir alguma linguagem que não esteja listada abaixo, procure s
 
 	_Tags: `javascript`, `desenvolvimento de jogos`, `android`, `c`, `swift`_
 
+	- [JWDev Treinamentos](https://www.youtube.com/channel/UC-nuC9rI-GnfdWubIzN7FRA) - O canal que fala sobre tecnologia de uma forma diferente, sem essa de Hello World! Aqui vamos sempre usar das ferramentas de desenvolvimento para recriar de forma inusitada programas consagrados.
+
+	_Tags: `javascript`, `games`, `layouts`, `css`, `typescript`, `react`, `angular`, `node.js`, `rxjs`_
+
 	- [Keven Jesus](https://bit.ly/2V7xU7L) - Canal do instrutor de programação Keven Jesus, com um bom material para quem está iniciando em JavaScript.
 
 	_Tags: `javascript`, `bootstrap`_
